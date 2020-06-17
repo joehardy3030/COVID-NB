@@ -1,0 +1,8 @@
+.vscode/settings.json
+/SodalicVenv
+/notebooks/keys
+/deep-learning-with-python-notebooks/
+/MLwithTensorFlow2ed-master/
+/keras
+.DS_Store
+*.pyc

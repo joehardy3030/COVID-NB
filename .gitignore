@@ -1,5 +1,6 @@
 .vscode/settings.json
 /SodalicVenv
+/wslVenv
 /notebooks/keys
 /deep-learning-with-python-notebooks/
 /MLwithTensorFlow2ed-master/

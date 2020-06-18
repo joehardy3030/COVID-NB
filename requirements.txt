@@ -9,14 +9,19 @@ CacheControl==0.12.5
 cachetools==3.1.1
 certifi==2019.6.16
 chardet==3.0.4
+click==7.1.2
+click-plugins==1.1.1
+cligj==0.5.0
 colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
+Fiona==1.8.13.post1
 firebase-admin==2.17.0
 gast==0.2.2
 gcloud==0.17.0
+geopandas==0.7.0
 google-api-core==1.14.0
 google-api-python-client==1.7.9
 google-auth==1.6.3
@@ -59,6 +64,7 @@ mccabe==0.6.1
 mistune==0.8.4
 msgpack==0.6.1
 multitasking==0.0.9
+munch==2.5.0
 nbconvert==5.5.0
 nbformat==4.4.0
 notebook==6.0.3
@@ -84,6 +90,7 @@ pydot-ng==2.0.0
 Pygments==2.4.2
 pylint==2.4.4
 pyparsing==2.4.0
+pyproj==2.6.1.post1
 Pyrebase==3.0.27
 pyrsistent==0.15.3
 python-dateutil==2.8.0
@@ -101,6 +108,7 @@ rsa==4.0
 scipy==1.4.1
 seaborn==0.10.0
 Send2Trash==1.5.0
+Shapely==1.7.0
 six==1.14.0
 tensorboard==2.1.0
 tensorflow==1.14.0

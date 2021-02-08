@@ -35,7 +35,7 @@ google-resumable-media
 googleapis-common-protos
 grpcio
 h5py==2.10.0
-httplib2==0.18.0
+httplib2==0.19.0
 idna==2.8
 importlib-metadata==1.6.1
 ipykernel==5.1.1
